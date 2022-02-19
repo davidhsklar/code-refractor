@@ -1,3 +1,5 @@
+/* Page wide styles */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* Header Styles Start */
 
 .header {
     padding: 20px;
@@ -40,6 +44,10 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* Header Styles End */
+
+/* Hero and Body styles Start */
 
 a {
     color: #ffffff;
@@ -188,6 +196,10 @@ p {
     font-size: 36px;
 }
 
+/* Hero and Body styles End */
+
+/* Footer Styles Start */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -195,6 +207,8 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h3 {
     font-size: 20px;
 }
+
+/* Foot Styles End */
